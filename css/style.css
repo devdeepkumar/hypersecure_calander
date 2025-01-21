@@ -502,6 +502,11 @@ footer.footer {
     gap: 15px;
     margin-right: 60px;
 }
+.social-media-icon a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .social-media-icon img{
     width: 20px;
 }
