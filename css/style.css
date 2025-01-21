@@ -166,11 +166,11 @@ body {
 
 
 .nav-bar .menu a:hover {
-    color: #00b3ff;
+    color: #003da6;
 }
 
 .nav-bar .menu a.active {
-    color: #00b3ff;
+    color: #003da6;
 }
 
 .nav-bar .menu .dropdown {
@@ -271,7 +271,7 @@ body {
 
 .nav-bar .menu .dropdown-menu a:hover {
     background-color: #fff;
-    color: #00b3ff;
+    color: #003da6;
 }
 
 .nav-bar .menu .button {
@@ -291,7 +291,7 @@ body {
 
 
 .nav-bar .menu .button:hover {
-    background-color: #00b3ff;
+    background-color: #003da6;
     color: #fff;
     transition: .2s ease-in-out;
 }
@@ -560,7 +560,7 @@ footer.footer {
 }
 
 .popUpCalendly .headings h3{
-    color: #00b3ff;
+    color: #003da6;
 }
 
 .popUpCalendly .headings p{
@@ -578,7 +578,7 @@ footer.footer {
 .back-strip::after{
     content: '';
     position: absolute;
-    background: #00b3ff;
+    background: #003da6;
     height: 35%;
     width: 100%;
     z-index: -1;
