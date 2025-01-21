@@ -34,7 +34,7 @@ body {
 
 /*? Top Bar Css START */
 .top-bar {
-    background-color: var(--topbarColor);
+    background-color:#003DA6;
     color: white;
     font-size: 14px;
     padding: 8px 5%;
